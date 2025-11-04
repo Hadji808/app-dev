@@ -18,10 +18,15 @@ My first repository
 5. **Black Widow (Natasha Romanoff)** — smart and skilled spy.  
 6. **Hawkeye (Clint Barton)** — the expert archer.
 
-#### Quick facts
-- **Genre:** Action / Superhero  
-- **Release year:** 2012  
-- **Director:** Joss Whedon
+| Detail | Description |
+|--------|--------------|
+| **Title** | The Avengers |
+| **Genre** | Action / Superhero |
+| **Release Year** | 2012 |
+| **Director** | Joss Whedon |
+| **Main Villain** | Loki |
+| **Main Setting** | New York City |
+| **Production Company** | Marvel Studios |
 
 #### Favorite Scene (script style)
 ```text
