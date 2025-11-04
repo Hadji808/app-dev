@@ -30,11 +30,12 @@ My first repository
 | **Main Setting** | New York City |
 | **Production Company** | Marvel Studios |
 
-#### 🎬 Favorite Scene: "Battle of New York"
+#### 🌆 Favorite Scene
 
-```text
-[Camera pans around the team]
-All the heroes are standing in a circle, surrounded by monsters.
-The camera slowly spins around them while the aliens scream in the background.
-They all pose together — ready to fight as a team.
-💥 That moment gave me chills — the perfect team shot!
+> ---
+> **Battle of New York — The Iconic Team Pose**
+>
+> The camera circles around all the Avengers as the monsters scream in the background.  
+> They stand united, ready to fight — the perfect symbol of teamwork.  
+> ---
+> 💥 *“That’s the moment I knew they were truly The Avengers.”*
