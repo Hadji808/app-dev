@@ -23,9 +23,10 @@ My first repository
 - **Release year:** 2012  
 - **Director:** Joss Whedon
 
-#### Favorite scene (script style)
+#### Favorite Scene (script style)
 ```text
 Scene: Battle of New York
-Nick Fury: "The city is in danger."
-Captain America: "Avengers... assemble!"
-(The team fights together to stop the alien invasion.)
+All the heroes are standing in a circle, surrounded by monsters.
+The camera slowly spins around them while the aliens scream in the background.
+They all pose together, ready to fight as a team.
+That moment gave me chills — it was the perfect team shot.
