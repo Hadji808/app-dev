@@ -23,3 +23,9 @@ My first repository
 - **Release year:** 2012  
 - **Director:** Joss Whedon
 
+#### Favorite scene (script style)
+```text
+Scene: Battle of New York
+Nick Fury: "The city is in danger."
+Captain America: "Avengers... assemble!"
+(The team fights together to stop the alien invasion.)
