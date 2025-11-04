@@ -29,10 +29,12 @@ My first repository
 | **Main Villain** | Loki |
 | **Main Setting** | New York City |
 | **Production Company** | Marvel Studios |
-#### Favorite Scene (script style)
+
+#### 🎬 Favorite Scene: "Battle of New York"
+
 ```text
-Scene: Battle of New York
+[Camera pans around the team]
 All the heroes are standing in a circle, surrounded by monsters.
 The camera slowly spins around them while the aliens scream in the background.
-They all pose together, ready to fight as a team.
-That moment gave me chills — it was the perfect team shot.
+They all pose together — ready to fight as a team.
+💥 That moment gave me chills — the perfect team shot!
